@@ -1,0 +1,6 @@
+print("Xin chào!")
+print("Luu lan 1")
+print("Luu lan 2")
+print("Luu lan 3")
+print("Luu lan 4")
+print("Luu lan 5")
